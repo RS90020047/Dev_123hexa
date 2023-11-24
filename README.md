@@ -20,3 +20,5 @@ To display results in GitK:
 To start over:
 
     git bisect reset
+
+-- new line added for update the file 
